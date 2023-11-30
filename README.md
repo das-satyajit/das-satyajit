@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React,MERN,Java,SQL**
+- 💬 Ask me about **REACT,MERN,JAVA,SQL**
 
 - 📫 How to reach me **dassatyajit689@gmail.com**
 
