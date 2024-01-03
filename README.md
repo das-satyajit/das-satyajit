@@ -1,3 +1,4 @@
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0zkh5-QFmDpRuhLKfFkz1_&ust=1704362311570000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID5qcT6wIMDFQAAAAAdAAAAABAH)
 <h1 align="center">Hi 👋, I'm Satyajit Das</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
