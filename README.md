@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Java,Python,ReactJs,NodeJs**
+- 💬 Ask me about **Java, Python, ReactJs, NodeJs**
 
 - 📫 How to reach me **dassatyajit689@gmail**
 
